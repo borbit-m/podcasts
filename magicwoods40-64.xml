@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Magic Woods 40-64</title>
+		<description>Magic Woods chapters 40 to 64</description>
+		<link>https://www.magic-woods.net</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 10 Mar 2026 05:31:13 GMT</lastBuildDate>
+		<atom:link href="https://example.com/magicwoods-40-64.xml" rel="self" type="application/rss+xml" />
+		<author>George Patrick Leal</author>
+		<copyright>George Patrick Leal</copyright>
+		<language>en</language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+		<itunes:author>George Patrick Leal</itunes:author>
+		<itunes:summary>The original Magic Woods stories! Copyright 2017 by George Patrick Leal. For even more stories, subscribe to the Magic Woods Patreon page. Visit https://www.patreon.com/c/MagicWoods for more information!
+</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>George Patrick Leal</itunes:name>
+			<itunes:email>georgeleal4470@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Kids &amp; Family">
+			<itunes:category text="Stories for Kids" />
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3657614/3657614-1767029053436-930fee9ac4307.jpg" />
+		<item>
+			<title>40</title>
+			<description>Whisker invents a sinister new device.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-40-The-Zabribulator-ed3vq9</link>
+			<guid isPermaLink="false">a8bd9a29-a3ac-491b-9a40-42dbe2d84825</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Wed, 21 Jan 2026 10:55:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/12762377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-18%2F231942032-44100-2-4a71be4c7298c.m4a" length="7322610" type="audio/x-m4a" />
+			<itunes:summary>Whisker invents a sinister new device.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:07:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1649577235757-4b2f032328eae.jpg" />
+			<itunes:season>2</itunes:season>
+			<itunes:episode>40</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>41</title>
+			<description>Bunny journeys to a dangerous land where a monster is said to roam.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-41-The-Abominable-Snowcat-ed40j1</link>
+			<guid isPermaLink="false">1b336ea3-6cf8-4af3-ade6-f5199ca24eca</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Wed, 21 Jan 2026 15:18:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/12763169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-11%2F247381815-44100-2-4d9b48e430f23.m4a" length="16939518" type="audio/x-m4a" />
+			<itunes:summary>Bunny journeys to a dangerous land where a monster is said to roam.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:17:27</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1649577265421-be0a6706bc525.jpg" />
+			<itunes:season>2</itunes:season>
+			<itunes:episode>41</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>42</title>
+			<description>Kitty and Doggie journey to Mandatory Potluck in search of information about the Lost Crowns.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-42-The-City-of-the-Swamp-Dinosaurs-edc2gb</link>
+			<guid isPermaLink="false">de50c0d1-49a7-4be9-889a-defdb21128a5</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Wed, 21 Jan 2026 21:44:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13027275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-11%2F247384735-44100-2-b17e36a0c91a7.m4a" length="10976240" type="audio/x-m4a" />
+			<itunes:summary>Kitty and Doggie journey to Mandatory Potluck in search of information about the Lost Crowns.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:11:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1649577339438-d55e1ee33ff74.jpg" />
+			<itunes:season>2</itunes:season>
+			<itunes:episode>42</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>43</title>
+			<description>Doggie becomes an unlikely hero. 
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-43-Doggies-Stuper-Suit-e11llar</link>
+			<guid isPermaLink="false">90c2a51b-51dd-47f5-ae69-e0fb44d8aa7f</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Wed, 21 Jan 2026 23:30:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/34312987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-11%2F247385319-44100-2-79364428515af.m4a" length="12974071" type="audio/x-m4a" />
+			<itunes:summary>Doggie becomes an unlikely hero. 
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:13:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1649577374770-b119104dbfe7a.jpg" />
+			<itunes:season>2</itunes:season>
+			<itunes:episode>43</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>44</title>
+			<description>The animals journey to the lost city of Midnight Barbecue and discover the truth about Ma’ama.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-44-The-Witch-of-Westland-edc2no</link>
+			<guid isPermaLink="false">87ee91ac-5faa-41c9-974c-1143df8eefb3</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Thu, 22 Jan 2026 11:28:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13027512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369033415-44100-2-09a9d3dd8dee8.m4a" length="15881701" type="audio/x-m4a" />
+			<itunes:summary>The animals journey to the lost city of Midnight Barbecue and discover the truth about Ma’ama.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:16:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1649577425314-915481312a3cf.jpg" />
+			<itunes:season>2</itunes:season>
+			<itunes:episode>44</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>45</title>
+			<description>Kitty and Doggie try to take the Crown from Tyro.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-45-The-Crown-0f-Creation-edc3ob</link>
+			<guid isPermaLink="false">c9139afa-6685-40f8-b16a-73a6722e1f06</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Thu, 22 Jan 2026 15:43:35 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13028555/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369034185-44100-2-f202b16f435fa.m4a" length="10994653" type="audio/x-m4a" />
+			<itunes:summary>Kitty and Doggie try to take the Crown from Tyro.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:11:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1649575501569-fa74bd8fc55bf.jpg" />
+			<itunes:season>2</itunes:season>
+			<itunes:episode>45</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>46</title>
+			<description>Kitty and her friends try to get the Crown to Ma’ama... but are met by Tyro's army.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-46-The-Battle-at-the-Edge-0f-the-World-edcei1</link>
+			<guid isPermaLink="false">cabc8b2a-ae00-4c06-88bb-0c18d3a9fe81</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Thu, 22 Jan 2026 19:49:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13039617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369034508-44100-2-86fe855beb044.m4a" length="13807680" type="audio/x-m4a" />
+			<itunes:summary>Kitty and her friends try to get the Crown to Ma’ama... but are met by Tyro's army.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:14:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1649575459497-ed9d7ece4c479.jpg" />
+			<itunes:season>2</itunes:season>
+			<itunes:episode>46</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>47</title>
+			<description>&lt;p&gt;Bunny falls into the Black Hole of Flowerfield. Will Kitty and Doggie be able to save her before she disappears?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-47-Bunny-Falls-into-the-Black-Hole-edcemb</link>
+			<guid isPermaLink="false">91c9488e-8dcb-4df7-9150-cbb1c79b517a</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Thu, 22 Jan 2026 21:52:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13039755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-26%2F375681532-44100-2-b85cfeab27946.m4a" length="9762934" type="audio/x-m4a" />
+			<itunes:summary>&lt;p&gt;Bunny falls into the Black Hole of Flowerfield. Will Kitty and Doggie be able to save her before she disappears?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/3657614/3657614-1649575428824-4d2c7069fe78f.jpg" />
+			<itunes:season>2</itunes:season>
+			<itunes:episode>47</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>48</title>
+			<description>The story of how Kitty, Doggie, and Bunny first met.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-48-Under-the-Darkearly-Tree-eetem9</link>
+			<guid isPermaLink="false">c0c32aa8-eb50-4bcc-909f-f0ccc613d58d</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Fri, 23 Jan 2026 11:46:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/14645385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-22%2F63880695-73b2-16a0-9519-90c7a6562219.m4a" length="20107365" type="audio/x-m4a" />
+			<itunes:summary>The story of how Kitty, Doggie, and Bunny first met.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:20:43</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1672793210770-7e8cef1b951f9.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>48</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>49</title>
+			<description>Chippy travels with Kitty, Doggie, and Bunny to The Pumpkin’s world.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-49-Chippy-vs--The-Pumpkin-edcg5c</link>
+			<guid isPermaLink="false">d130b5b3-b49a-4f83-8b87-67d2cb37b090</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Fri, 23 Jan 2026 14:17:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13041260/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-5%2F246247111-44100-2-06e2531d0fe0e.m4a" length="15110404" type="audio/x-m4a" />
+			<itunes:summary>Chippy travels with Kitty, Doggie, and Bunny to The Pumpkin’s world.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:15:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1672793146564-54a356bfd032a.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>49</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>50</title>
+			<description>Doggie accidentally awakens Versa, the Witch of Westland. 
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-50-Versas-Army-edlaq1</link>
+			<guid isPermaLink="false">8e5a6af1-2982-44de-8a2a-c37102d9f314</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Fri, 23 Jan 2026 18:03:05 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13330689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-5%2F263678297-44100-2-d7bbbc11b109a.m4a" length="18924182" type="audio/x-m4a" />
+			<itunes:summary>Doggie accidentally awakens Versa, the Witch of Westland. 
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:19:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1672793115032-b3039f6a11e11.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>50</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>51</title>
+			<description>Westland gets a new queen.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-51-THE-G0LDEN-TREE-edlfv1</link>
+			<guid isPermaLink="false">9a7129ff-076c-4b64-8d7c-b0802da9f3d1</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Fri, 23 Jan 2026 23:19:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13335969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-5%2F246247717-44100-2-ef5f1c251f50d.m4a" length="16342479" type="audio/x-m4a" />
+			<itunes:summary>Westland gets a new queen.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:16:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1672792845236-78429409c1f12.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>51</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>52</title>
+			<description>Kitty has trouble with her neighbor, Hypnotizer the ape.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-52-The-Ghost-of-Flying-Wormy-McFuzzface-edlg4v</link>
+			<guid isPermaLink="false">44e8fb83-29c9-4572-91d2-edf96ff4022a</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sat, 24 Jan 2026 13:07:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13336159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369062842-44100-2-08112b5a71ffe.m4a" length="13673750" type="audio/x-m4a" />
+			<itunes:summary>Kitty has trouble with her neighbor, Hypnotizer the ape.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:14:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/3657614/3657614-1672792800398-7d09b5100251f.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>52</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>53</title>
+			<description>Hypnotizer seeks revenge on Kitty.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-53-Kittys-Poppet-Problem-e11nsg6</link>
+			<guid isPermaLink="false">dae3bf89-9dc8-4720-8fdb-be16bb003b25</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sat, 24 Jan 2026 14:24:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/34385862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369063108-44100-2-6a95e7ff873d6.m4a" length="11345412" type="audio/x-m4a" />
+			<itunes:summary>Hypnotizer seeks revenge on Kitty.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:11:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1709113174807-335e951a3a685.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>53</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>54</title>
+			<description>Kitty devises a plan to get rich.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-54-The-Big-White-Rock-and-the-Little-Blue-Pimple-edmqgp</link>
+			<guid isPermaLink="false">c113375c-059f-4b39-aba4-d6348c46e5f6</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sat, 24 Jan 2026 15:39:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13379545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369063317-44100-2-8413aa291ec9a.m4a" length="15388304" type="audio/x-m4a" />
+			<itunes:summary>Kitty devises a plan to get rich.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:15:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/3657614/3657614-1672792553266-df74840ddb768.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>54</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>55</title>
+			<description>Kitty seeks the healing powers of the legendary Lostin Fountain.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-55-The-Lostin-Fountain-e19abgs</link>
+			<guid isPermaLink="false">03386242-5163-441e-b884-cd7ecc7af088</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sat, 24 Jan 2026 22:01:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/42331100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369063655-44100-2-a8cf8e661c0b8.m4a" length="19282888" type="audio/x-m4a" />
+			<itunes:summary>Kitty seeks the healing powers of the legendary Lostin Fountain.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:19:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1709113614293-d37781f5b3a73.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>55</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>56</title>
+			<description>Doggie discovers a magical valley. Or did he just dream it...?
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-56-SPRlNG-VALLEY-edmqlu</link>
+			<guid isPermaLink="false">a0140b2b-dbfb-4ee7-837f-f2b69991e485</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sun, 25 Jan 2026 00:25:48 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13379710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369063907-44100-2-6055348fbbb65.m4a" length="15958311" type="audio/x-m4a" />
+			<itunes:summary>Doggie discovers a magical valley. Or did he just dream it...?
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:16:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1649572531871-6c8635b3d94e3.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>56</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>57</title>
+			<description>Hypnotizer hatches a plan to take over Woodville.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-57-Hypnotizers-TV-Show-edv4ma</link>
+			<guid isPermaLink="false">0ca1e4c4-cf8e-492d-8b59-a13ca510047b</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sun, 25 Jan 2026 01:27:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13652106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369064051-44100-2-651605cd4d311.m4a" length="13606816" type="audio/x-m4a" />
+			<itunes:summary>Hypnotizer hatches a plan to take over Woodville.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:14:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1672792518797-a9c5f455b3485.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>57</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>58</title>
+			<description>Kitty wants to stop saying “meow-mee.”
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-58-The-Pickle-Juice-Solution-e11nv0d</link>
+			<guid isPermaLink="false">eab28b1b-a753-44da-b5d4-269e36b6043c</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sun, 25 Jan 2026 02:27:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/34388429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369064243-44100-2-7280bb73e0d8c.m4a" length="6933360" type="audio/x-m4a" />
+			<itunes:summary>Kitty wants to stop saying “meow-mee.”
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:07:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1672793759623-25f25459a2ee9.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>58</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>59</title>
+			<description>Myrrh runs away and meets an immortal magic woman.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-59-The-427th-Most-Important-Mortal-edv5bu</link>
+			<guid isPermaLink="false">4a459101-36d3-41fb-a25d-1735de03ad72</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sun, 25 Jan 2026 09:27:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13652798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369064395-44100-2-7875ee01295bf.m4a" length="14745518" type="audio/x-m4a" />
+			<itunes:summary>Myrrh runs away and meets an immortal magic woman.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:15:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1672793819027-d3d79178b8c39.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>59</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>60</title>
+			<description>Versa returns with a plan to destroy Ma’ama and take her power. 
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-60-Versas-Revenge-edv6ek</link>
+			<guid isPermaLink="false">9bf330dd-94fa-4244-a0e4-8193e6a43fa8</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sun, 25 Jan 2026 12:13:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13653908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369064685-44100-2-6c23c8caa6af7.m4a" length="10261248" type="audio/x-m4a" />
+			<itunes:summary>Versa returns with a plan to destroy Ma’ama and take her power. 
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/3657614/3657614-1672793869815-8e8f55b1e2503.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>60</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>61</title>
+			<description>Ma’ama asks the animals to destroy a statue of her that some Stick People made. 
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-61-THE-F0RBIDDEN-STATUE-e126l2j</link>
+			<guid isPermaLink="false">1535ae66-c4aa-4f4c-b800-c32c81c9507b</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sun, 25 Jan 2026 17:19:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/34869779/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369065014-44100-2-180106ad02cc1.m4a" length="14126520" type="audio/x-m4a" />
+			<itunes:summary>Ma’ama asks the animals to destroy a statue of her that some Stick People made. 
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:14:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1709114748145-593e7b580135b.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>61</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>62</title>
+			<description>Kitty ends up in the hospital after an ill-fated woodland romp.
+
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-62-Snowflowers--Fizzler-e2d4m87</link>
+			<guid isPermaLink="false">5984764e-93c4-4002-970b-bca482d418dd</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sun, 25 Jan 2026 18:25:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/79894215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369065345-44100-2-aa14c270709c.m4a" length="10011602" type="audio/x-m4a" />
+			<itunes:summary>Kitty ends up in the hospital after an ill-fated woodland romp.
+
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1709114969179-792f941cc0776.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>62</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>63</title>
+			<description>Myrrh seeks to investigate a legendary race of Underwater People.
+
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-63-Some-Things-Are-Better-Left-Unknown-e1msqj2</link>
+			<guid isPermaLink="false">44e621b2-7976-48db-8623-5d510209d668</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sun, 25 Jan 2026 20:04:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/56567842/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369065606-44100-2-d648ceef94f7.m4a" length="9720136" type="audio/x-m4a" />
+			<itunes:summary>Myrrh seeks to investigate a legendary race of Underwater People.
+
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1709115268618-d7cd41f2d22a5.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>63</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>64</title>
+			<description>Bunny and Myrrh try to find a partner for Doggie.
+</description>
+			<link>https://podcasters.spotify.com/pod/show/george-patrick-leal0/episodes/Chapter-64-Doggie-Falls-in-Love-ee6bet</link>
+			<guid isPermaLink="false">6d061b51-be70-424f-b14f-323692c5b5a8</guid>
+			<dc:creator>George Patrick Leal</dc:creator>
+			<pubDate>Sun, 25 Jan 2026 20:39:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/13888413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369065703-44100-2-532d2ab13d25f.m4a" length="10576014" type="audio/x-m4a" />
+			<itunes:summary>Bunny and Myrrh try to find a partner for Doggie.
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3657614/3657614-1672794757620-51e726d34c65b.jpg" />
+			<itunes:season>3</itunes:season>
+			<itunes:episode>64</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+</channel></rss>
