@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Magic Woods</title>
+        <link>https://borbit-m.github.io/podcasts/</link>
+        <description>Magic Woods test feed</description>
+        <language>en-us</language>
+        <itunes:author>George Patrick Leal</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <image>
+            <url>https://borbit-m.github.io/podcasts/icon.png</url>
+            <title>Magic Woods</title>
+            <link>https://borbit-m.github.io/podcasts/</link>
+        </image>
+        <itunes:image href="https://borbit-m.github.io/podcasts/icon.png"/>
+
+        <!-- EPISODE 40 -->
+        <item>
+            <title>40</title>
+            <itunes:image href="https://borbit-m.github.io/podcasts/40.png"/>
+            <pubDate>Wed, 21 Jan 2026 10:55:17 GMT</pubDate>
+            <guid>magicwoods-40</guid>
+            <enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/12762377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-18%2F231942032-44100-2-4a71be4c7298c.m4a" length="7322610" type="audio/x-m4a"/>
+            <itunes:duration>00:07:32</itunes:duration>
+        </item>
+
+        <!-- EPISODE 41 -->
+        <item>
+            <title>41</title>
+            <itunes:image href="https://borbit-m.github.io/podcasts/41.png"/>
+            <pubDate>Wed, 21 Jan 2026 15:18:30 GMT</pubDate>
+            <guid>magicwoods-41</guid>
+            <enclosure url="https://anchor.fm/s/1665a9f8/podcast/play/12763169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-11%2F247381815-44100-2-4d9b48e430f23.m4a" length="16939518" type="audio/x-m4a"/>
+            <itunes:duration>00:17:27</itunes:duration>
+        </item>
+
+    </channel>
+</rss>
