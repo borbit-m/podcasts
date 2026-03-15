@@ -22,6 +22,11 @@
 			<itunes:category text="Stories for Kids" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3657614/3657614-1767029053436-930fee9ac4307.jpg" />
+		<image>
+		    <url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3657614/3657614-1767029053436-930fee9ac4307.jpg</url>
+		    <title>Magic Woods</title>
+		    <link>https://www.magic-woods.net</link>
+		</image>
 		<item>
 			<title>40</title>
 			<description>Whisker invents a sinister new device.
